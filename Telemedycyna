@@ -1,5 +1,0 @@
-Rejestrator siły nacisku z transmisją, zapisem i wizualizacją danych, wersja z czujnikiem tensometrycznym.
-
-Układ będzie służył do pomiaru siły nacisku do maksymalnej wartości 20kg. Wynik pomiaru aktualnej siły nacisku wyświetlany będzie na wyświetlaczu, a w przypadku zbliżenia się do wartości 20 kg zostanie wyświetlony komunikat ostrzegawczy i wydany sygnał dźwiękowy.
-Układ będzie zasilany akumulatorowo z możliwością przewodowego ładowania.
-Dane będą przesyłane do bazy danych i wyświetlane np na komputerze.
